@@ -1,0 +1,24 @@
+
+body{
+    background-image: url("book.jpg");
+    
+}
+a{
+    text-decoration: none;
+    text-decoration-style: solid;
+    text-height: font-size;
+    display:block;
+}
+a:link {background-color:rgba(255,255,255,0.8);}    /* unvisited link */
+a:visited {background-color:rgba(255,255,255,0.8);} /* visited link */
+a:hover {background-color:#B2FF99;}   /* mouse over link */
+a:active {background-color:#B2FF99;}  /* selected link */
+
+
+h1{
+    font-family: Arial;
+    color:#BB2A3C;
+    font-size: 45px;
+    background-color: rgba(255,255,255,0.8);
+    width:300px;
+}
